@@ -1,0 +1,7 @@
+directory
+repository 
+CLI-command line interface 
+CD- change directory 
+git 
+github
+terminal
