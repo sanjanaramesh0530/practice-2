@@ -1,0 +1,16 @@
+git add
+git commit 
+git push origin main
+git pull 
+git merge main/git merge feature-login
+git checkout 
+git cd ..
+git branch -a 
+git init 
+git status 
+git log --online--graph--all
+git fetch
+git remote -v
+git ls -remote origin 
+git push --force-with-lease 
+git push--force
