@@ -17,3 +17,4 @@ switching
 diff
 compare
 fetch
+initialize git 
