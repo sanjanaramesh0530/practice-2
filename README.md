@@ -16,6 +16,4 @@ branching
 switching
 diff
 compare
-etc..
-
- 
+fetch
